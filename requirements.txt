@@ -1,0 +1,8 @@
+importlib_metadata
+stanza
+sentencepiece
+sacrebleu
+sacremoses
+jsonlines
+termcolor
+iso-639
